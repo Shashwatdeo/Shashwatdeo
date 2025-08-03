@@ -44,7 +44,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Shashwatdeo/Shashwatdeo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Shashwatdeo/Shashwatdeo/output/github-contribution-grid-snake.svg)
 
 
 
