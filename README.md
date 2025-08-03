@@ -34,6 +34,11 @@
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://github.com/Shashwatdeo/Shashwatdeo/blob/master/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashwatdeo&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shashwatdeo&theme=dark&hide_border=false)
