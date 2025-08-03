@@ -53,4 +53,10 @@
 - 🔗 [StayBooker – Hotel Booking Website](https://stay-booker-pro.vercel.app/)  
   Full-stack hotel booking platform with **React**, **Tailwind CSS**, **Node.js**, and real-time room availability. Features user login, hotel listings, booking flow, and dark mode.
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-deo/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatdeo143@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=firefox&logoColor=white)](https://shashwatdeo-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashwatdeo)
 
