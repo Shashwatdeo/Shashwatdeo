@@ -55,6 +55,13 @@
 - 🔗 [StayBooker – Hotel Booking Website](https://stay-booker-pro.vercel.app/)  
   Full-stack hotel booking platform with **React**, **Tailwind CSS**, **Node.js**, and real-time room availability. Features user login, hotel listings, booking flow, and dark mode.
 
+- 🔗 [URL Shortener with JWT Auth](https://url-shortner-bpkj.vercel.app/)  
+  Full-stack URL shortener with **JWT authentication**, **MongoDB**, and detailed **click analytics**. Features secure user sessions, modular architecture, and a responsive UI built with **React + Vite**.
+
+- 🔗 [Wordloom – React BlogSpace](https://wordloom-vn32.vercel.app/)  
+  A modern blogging platform with **JWT authentication**, **Markdown editor**, and **MongoDB backend**. Built using **React + TypeScript + Tailwind CSS**, supports live preview and document organization.
+
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-deo/)
