@@ -34,13 +34,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwatdeo&show_icons=true&theme=tokyonight" alt="Shashwatdeo GitHub Stats" />
-</p>
+![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwat-deo&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatdeo&layout=compact&theme=tokyonight&hide=css" alt="Top Languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=shashwat-deo&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-deo&layout=compact&theme=github_dark)
+
 
 ### 🐍 Contribution Snake
 
