@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats
 
-![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwat-deo&show_icons=true&theme=github_dark)
+![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashwatdeo&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shashwat-deo&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shashwatdeo&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-deo&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatdeo&layout=compact&theme=github_dark)
 
 
 ### 🐍 Contribution Snake
