@@ -42,10 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatdeo&layout=compact&theme=tokyonight&hide=css" alt="Top Languages" />
 </p>
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shashwatdeo/Shashwatdeo/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/Shashwatdeo/Shashwatdeo/blob/output/github-contribution-grid-snake.svg)
+
 
 
