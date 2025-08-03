@@ -46,5 +46,29 @@
 
 ![snake gif](https://raw.githubusercontent.com/Shashwatdeo/Shashwatdeo/output/github-contribution-grid-snake.svg)
 
+## 📊 GitHub Stats
+
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwatdeo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatdeo&layout=compact&theme=tokyonight)
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+- 🔗 [AI ResumeX Builder](https://ai-resumex-builder.vercel.app/)  
+  Build smart resumes with **Gemini AI**, **Judge0 API**, and **Cloudinary**. Includes job role-based templates, AI interview Q&A, and PDF downloads.
+
+- 🔗 [StayBooker – Hotel Booking Website](https://stay-booker-pro.vercel.app/)  
+  Full-stack hotel booking platform with **React**, **Tailwind CSS**, **Node.js**, and real-time room availability. Features user login, hotel listings, booking flow, and dark mode.
 
 
