@@ -31,3 +31,19 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashwatdeo&show_icons=true&theme=tokyonight" alt="Shashwatdeo GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatdeo&layout=compact&theme=tokyonight&hide=css" alt="Top Languages" />
+</p>
+
+## 🐍 Contribution Graph Snake (Optional)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashwatdeo/Shashwatdeo/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
