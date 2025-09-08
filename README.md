@@ -61,6 +61,12 @@
 - 🔗 [Wordloom – React BlogSpace](https://wordloom-vn32.vercel.app/)  
   A modern blogging platform with **JWT authentication**, **Markdown editor**, and **MongoDB backend**. Built using **React + TypeScript + Tailwind CSS**, supports live preview and document organization.
 
+- 🔗 [CodeSync – Real-Time Code Editor](https://github.com/Shashwatdeo/Code-Sync)  
+  Collaborative **real-time code editor** enabling multiple users to write, edit, and execute code simultaneously. Built with **Socket.io**, **Node.js**, and **React**, ensuring smooth multi-user collaboration.
+
+- 🔗 [Crop Advisory & Farmer’s Companion](https://github.com/Shashwatdeo/Crop-Advisory)  
+  An **MVC-based web platform** providing farmers with **crop suggestions, weather-based precautions, and pest alerts**. Includes user authentication and community features for knowledge sharing.
+
 
 ## 🌐 Connect with Me
 
