@@ -55,10 +55,10 @@
 - 🔗 [StayBooker – Hotel Booking Website](https://stay-booker-pro.vercel.app/)  
   Full-stack hotel booking platform with **React**, **Tailwind CSS**, **Node.js**, and real-time room availability. Features user login, hotel listings, booking flow, and dark mode.
 
-- 🔗 [URL Shortener with JWT Auth](https://url-shortner-bpkj.vercel.app/)  
+- 🔗 [MiniLnkx - URL Shortener with JWT Auth](https://minilnkx.vercel.app/)  
   Full-stack URL shortener with **JWT authentication**, **MongoDB**, and detailed **click analytics**. Features secure user sessions, modular architecture, and a responsive UI built with **React + Vite**.
 
-- 🔗 [Wordloom – React BlogSpace](https://wordloom-vn32.vercel.app/)  
+- 🔗 [LoomVerse – React BlogSpace](https://loomverse.vercel.app/)  
   A modern blogging platform with **JWT authentication**, **Markdown editor**, and **MongoDB backend**. Built using **React + TypeScript + Tailwind CSS**, supports live preview and document organization.
 
 - 🔗 [CodeSync – Real-Time Code Editor](https://github.com/Shashwatdeo/Code-Sync)  
